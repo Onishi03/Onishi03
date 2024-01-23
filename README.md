@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Onishi 🤓
 
  <div>
-   <a href="https://github.com/Onishi03">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Onishi03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onishi03&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/onishi03">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onishi03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onishi03&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
