@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/onishi03">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=jolly"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onishi03&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=onishi03&repo=github-readme-stats&cache_seconds=86400&theme=jolly"/>
 </div>
     
 <div style="display: inline_block"><br>
