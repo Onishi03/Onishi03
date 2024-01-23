@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/onishi03">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onishi03&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=onishi03&repo=github-readme-stats&cache_seconds=86400&theme=jolly"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onishi03&layout=compact&langs_count=6&theme=jolly"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -13,8 +13,6 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/rodrigo-onishi-%E5%A4%A7%E8%A5%BF" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
